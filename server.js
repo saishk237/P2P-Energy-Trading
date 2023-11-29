@@ -1,10 +1,3 @@
-/*  @file       server.js
-*   @authors    Saurabh Gupta     [saurabh.gupta1002@gmail.com]
-*               Awadhut Thube     [awadhutthube@gmail.com]
-*               Jheel Nagaria     [nagariajheel@gmail.com]
-*               Ashish Kamble     [ashishkamble14@gmail.com]
-*/
-
 // Instances //
 var app = require('express')();
 var http = require('http').Server(app);
