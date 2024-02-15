@@ -1,10 +1,3 @@
-/*  @file       producer.js
-*   @authors    Saurabh Gupta     [saurabh.gupta1002@gmail.com]
-*               Awadhut Thube     [awadhutthube@gmail.com]
-*               Jheel Nagaria     [nagariajheel@gmail.com]
-*               Ashish Kamble     [ashishkamble14@gmail.com]
-*/
-
 // Instances //
 
 /* web3.js is a collection of libraries that allow you to interact with a 
